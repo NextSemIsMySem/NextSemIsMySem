@@ -6,6 +6,8 @@ I am a new and aspiring CS student who is interested in the following fields:
 
 I truly believe these 2 fields are the the next best thing in aiding the advancement of humanity and I hope to be able to contribute to society by mastering the skills of the respective fields I have just mentioned.
 
+My hobbies are watching videos on cars and computers, as well as drumming!
+
 Although I am new to programming as a whole and I am still learning the ropes, and programming is still quite difficult to me for now, I stand firm on the statement "Everything is hard before it gets easy."
 
 <!--
