@@ -2,9 +2,9 @@
 
 I am a new and aspiring CS student who is interested in the following fields:
 🔐Cybersecurity
-🤖Artificial Intelligence
+Networking
 
-I truly believe these 2 fields are the the next best thing in aiding the advancement of humanity and I hope to be able to contribute to society by mastering the skills of the respective fields I have just mentioned.
+I truly believe these 2 fields are the the next best thing in aiding the safe and secure advancement of society and I hope to be able to contribute to society by mastering the skills of the respective fields I have just mentioned.
 
 My hobbies are watching videos on cars and computers, as well as drumming!
 
