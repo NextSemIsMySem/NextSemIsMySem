@@ -1,13 +1,10 @@
-## Hi there 👋
+### Hi, I'm Daryl 👋
 
-I am a new and aspiring CS student who is interested in the following fields:
-Cloud Computing, AI
+I'm a Computer Science student based in Malaysia with a strong interest in
+**networking, cloud infrastructure, and cybersecurity**.
 
-I truly believe these 2 fields are the the next best thing in aiding advancement of society and I hope to be able to contribute to society by mastering the skills of the respective fields I have just mentioned.
-
-My hobbies are watching videos on cars and computers, as well as drumming!
-
-Although I am new to programming as a whole and I am still learning the ropes, I stand firm on the statement "Everything is hard before it gets easy."
+I enjoy working with systems that are built on **clear rules, protocols, and guarantees** —
+things like TCP/IP, Linux, cloud networking, IAM, and security architectures.
 
 <!--
 **NextSemIsMySem/NextSemIsMySem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
